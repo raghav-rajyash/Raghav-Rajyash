@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @raghav-rajyash
-- 👀 I’m a Data analyst currently pursuing my B.TECH in CSE from Inderprastha Engneering Collage, DELHI.
-- I always look Forward to learnb new things.I code in Python and C and I am intersted in Machine Learning.
-- 📫 Connect with me @ https://www.linkedin.com/in/raghav-rajyash-b70231206/
+👋 Hi, I’m @raghav-rajyash
+👀 I’m an aspiring Data Analyst currently pursuing my B.Tech in CSE from Inderprastha Engineering College, Delhi.
+I always look forward to learning new things. I code in Python and C and am interested in Machine Learning.
+🔗 Connect with me on https://www.linkedin.com/in/raghav-rajyash-b70231206/
 
 <!---
 raghav-rajyash/raghav-rajyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
